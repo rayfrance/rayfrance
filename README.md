@@ -1,8 +1,8 @@
 ## <p align="center">Olá!! Eu sou Rayane, estudante e amante da tecnologia 👩‍💻 </p>
 <div align="center">
   <a href="https://github.com/rayfrance">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayfrance&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfrance&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayfrance&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfrance&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
