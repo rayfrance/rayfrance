@@ -2,12 +2,11 @@
 <div align="center"><br>
   <a href="https://github.com/rayfrance">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayfrance&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfrance&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfrance&layout=compact&langs_count=7&theme=omni&hide_border=false"/>
     <h3>Statistics</h3></summary>
     <p align="center">
     <a href="https://github.com/rayfrance/">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rayfrance&show_icons=true&theme=omni&hide_border=false" />
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayfrance&theme=omni&hide_border=false" />
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rayfrance&theme=omni&hide_border=false" />
     </a>
     </p>
 </div>
