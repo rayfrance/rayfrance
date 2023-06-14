@@ -1,8 +1,8 @@
 ## <p align="center"> Olá! Seja bem-vindo ao meu perfil 🌈</p>
-<p> Muito prazer! Meu nome é Rayane 🤓 </p>
-<p> Sou desenvolvedora e apaixonada por tecnologia, matemática e ciências da natureza 👩🏻‍💻⚛️🌠</p>
-<p> Eterna estudante com suporte de cafeína  ☕️ </p>
-<p> No meu perfil tem uma visão geral do que estudo no cotidiano, mas com certeza tem muito ainda que não upei por aqui 😅</p>
+<p> ❯  Muito prazer! Meu nome é Rayane 🤓 </p>
+<p> ❯ Sou desenvolvedora e apaixonada por tecnologia, matemática e ciências da natureza 👩🏻‍💻⚛️🌠</p>
+<p> ❯ Eterna estudante com suporte de cafeína  ☕️ </p>
+<p> ❯ No meu perfil tem uma visão geral do que estudo no cotidiano, mas com certeza tem muito ainda que não upei por aqui 😅</p>
 <div align="center"><br>
   <a href="https://github.com/rayfrance">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayfrance&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
