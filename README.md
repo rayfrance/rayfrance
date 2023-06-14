@@ -3,7 +3,7 @@
   <a href="https://github.com/rayfrance">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayfrance&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfrance&layout=compact&langs_count=7&theme=omni&hide_border=false"/>
-    <h3>Estatísticas</h3></summary>
+   <br><br> </summary>
     <p align="center">
     <a href="https://github.com/rayfrance/">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rayfrance&theme=omni&hide_border=false" />
