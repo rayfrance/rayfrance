@@ -3,6 +3,13 @@
   <a href="https://github.com/rayfrance">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayfrance&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayfrance&layout=compact&langs_count=7&theme=omni"/>
+    <h3>Statistics</h3></summary>
+    <p align="center">
+    <a href="https://github.com/rayfrance/">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rayfrance&show_icons=true&theme=omni&hide_border=false" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayfrance&theme=omni&hide_border=false" />
+    </a>
+    </p>
 </div>
 <div style="display: inline_block"><br><br>
   <img align="center" alt="Ray-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
